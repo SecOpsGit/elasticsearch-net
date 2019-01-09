@@ -53,7 +53,6 @@ namespace ApiGenerator
 			"xpack.security.has_privileges.json",
 			"xpack.security.put_privilege.json",
 			"xpack.security.put_privileges.json",
-			"xpack.rollup.get_rollup_index_caps.json",
 			"nodes.reload_secure_settings.json"
 		};
 
